@@ -1,0 +1,14 @@
+#include <iostream>
+
+#include "persona.h"
+
+using namespace std;
+
+int main()
+{
+    cout << "Mi priemr proyecto en git y github" << endl;
+    persona p;
+    p.nombre 
+            
+    return 0;
+}
